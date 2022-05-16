@@ -1,0 +1,28 @@
+html, body
+{
+  height: 100%;
+  margin: 0;
+}
+
+body
+{
+background-image: linear-gradient(to right top, #32d212, #d92525, #c118ad, #0eed9f, #dc6c0a);
+}
+sign_up {
+ text-align: unset;
+
+}
+.header img
+{
+	width: 80px;margin-left: -15px;
+}
+.login_div
+{
+	color: white; border-radius:15px; height: 250px;padding-top: 250px ;
+ 
+ 
+}
+#login_button
+{
+	width: 80%;border-radius: 15px;
+}
